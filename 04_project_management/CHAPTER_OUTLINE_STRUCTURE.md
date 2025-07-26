@@ -437,7 +437,7 @@ Here's what I find interesting - weren't all our beloved saints not canonized du
 **George's Subtle Cut:**
 *"I understand your enthusiasm, Maria. But those people you're quoting were saints - they had special grace we don't possess. Surely you see the difference between their spiritual authority and... well, our situation? It's humble to recognize we're not saints. Perhaps it's best to leave such complex matters to those with proper theological training."*
 
-*As George walked away, Maria overheard him say to his wife:* **"well... Unfortunately... this is what happens when people think they can read their way to salvation."**
+*As George walked away, Maria overheard him say to his wife:* **"well... unfortunately... that is what happens when people think they can read their way to salvation."**
 
 ### **Chapter 17: "You're Cherry-Picking the Fathers"**
 - **Maria's Encounter**: Someone attacks her patristic research methodology
