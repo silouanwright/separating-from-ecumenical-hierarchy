@@ -1,5 +1,5 @@
 ---
-name: maria-accusation-chapters
+name: maria
 description: Writing chapters 9-20 involving Maria's theological confrontations, Orthodox persecution dialogue, or integrating manipulative statements with patristic responses
 tools: Read, Write, Edit, Search
 ---
