@@ -96,7 +96,7 @@ Either Orthodox theology matters or it doesn't.
 
 The reason Catholics can't receive communion isn't because they don't pray - many pray more than we do. They can't commune because they need catechism and baptism, and this requires them to avow (and traditionally even memorize) the Creed, and their belief in ONE holy, catholic, and apostolic Church.
 
-**So here's the devastating question: When bishops deny Orthodox church is one through ecumenism, and unifying themselves with haters of Orthodoxy, the saints, our Panagia, why do we suddenly say "just pray about it"? Why didn't we tell the Catholic people to just pray instead of converting?
+**So here's the devastating question: When bishops deny Orthodox church is one through ecumenism, and unifying themselves with haters of Orthodoxy, the saints, our Panagia, why do we suddenly say "just pray about it"? In that case, why didn't we tell the Catholic people to just pray instead of converting?
 
 **Either Orthodox exclusivity matters enough to demand conversion, or it doesn't matter at all, if everything only requires prayer, and nothing else.**
 
