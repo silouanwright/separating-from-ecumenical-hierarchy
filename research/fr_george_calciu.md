@@ -63,6 +63,8 @@ Fr. George Calciu’s legacy—venerated by influential Orthodox writers, elders
 
 Sources
 
+-----
+
 
 -----
 
@@ -113,3 +115,58 @@ Fr. George: – Masonry is a demonic organization that worships Lucifer, has som
 
 
   (Taken from Fr George’ Living Words, translated by EC, to be continued)
+
+
+-----
+
+Was Fr. George Calciu loved?
+
+# Evidence of Father George Calciu’s Love and Veneration by the People
+
+## Mass Attendance and Public Mourning
+
+- **Funeral and Memorial Crowds**: At his burial at Petru-Voda Monastery, *thousands of faithful from all over Romania and abroad* gathered to pay their respects—a clear public demonstration of popular love and veneration. The official memorial was led by Archimandrite Justin Pârvu, himself a highly venerated spiritual figure and former political prisoner, in the presence of numerous clergy, including 34 priests[1][2].
+- **Leading Hierarchs’ Participation**: The funeral and memorial services were attended by senior Orthodox hierarchs, notably His Beatitude Patriarch Teoctist of Romania, who delivered a moving speech about Father George’s faith and struggle. The presence of Archbishop Iosif Pop, Bishop Varsanufie Prahoveanul, and Bishop Irenaeus Duvlea (representing the Orthodox Church in America) highlighted the significance of the event within the broader Church[1][2].
+
+## Testimonies from Spiritual Children and Community Members
+
+- **Personal Devotion and Warmth**: Frederica Mathewes-Green, a well-known author and one of Fr. George’s spiritual children, has publicly recounted his constant kindness, joy, and pastoral warmth, describing how many people were drawn to him for guidance and consolation[3][4].
+- **Anecdotes of Enduring Influence**: Community members describe him consistently as cheerful and encouraging, even after enduring decades of atrocities under communism—a trait that endeared him deeply to those he served[3][4].
+
+## Enduring Legacy and Remembrance
+
+- **Multiple Memorials**: His memory is regularly honored in annual services, with continued large attendance, confirming a lasting legacy of love among the faithful[2].
+- **Widespread Admiration**: Spiritual writers, clergy, and laypeople recount his impact, describing him as a father figure and confessor whose life inspired hope, courage, and perseverance[4][5].
+
+## Table: Indicators of Popular Veneration
+
+| Evidence Type        | Description                                                                                               |
+|----------------------|-----------------------------------------------------------------------------------------------------------|
+| Funeral Attendance   | Thousands from Romania and abroad at Petru-Voda Monastery burial[1][2]                                    |
+| Hierarchical Support | Presence and speeches by Patriarch Teoctist, multiple bishops, and senior clergy[1][2]                    |
+| Personal Testimonies | Accounts from spiritual children and community members highlight his kindness and impact[3][4][5]         |
+| Annual Memorials     | Ongoing commemoration services attract significant participation from clergy and laity[2]                 |
+
+Father George Calciu’s life and death were marked by public demonstrations of love from both Church hierarchy and ordinary faithful. The enormous crowds at his funeral and memorials, frequent testimonies of personal warmth and spiritual power, and his continued remembrance all provide concrete evidence that he was genuinely loved and venerated by the people[1][2][3][4].
+
+Sources
+[1] Father George Calciu | OrthodoxWord https://orthodoxword.wordpress.com/category/orthodox-saints-and-church-fathers/father-george-calciu/
+[2] Father George, 7 years with the righteous - OrthodoxWord https://orthodoxword.wordpress.com/2013/11/21/father-george-7-years-with-the-righteous/
+[3] Fr. George Calciu, My Spiritual Father / OrthoChristian.Com https://orthochristian.com/87840.html
+[4] Fr. George Calciu: First Century Christian in the Twentieth Century https://firstthings.com/fr-george-calciu-first-century-christian-in-the-twentieth-century/
+[5] Fr. George Calciu | Gladsome Lights https://gretchenjoanna.com/tag/fr-george-calciu/
+[6] [PDF] Father George Calciu: Priest, Prisoner and Confessor of the Faith https://stpaulsirvine.org/wp-content/uploads/2014/09/calciu.pdf
+[7] Fr George Calciu, my spiritual father and confessor - YouTube https://www.youtube.com/watch?v=183yKuyDQ84
+[8] In Memoriam: The Rev. George Calciu-Dumitreasa https://www.oca.org/in-memoriam/the-rev.-george-calciu-dumitreasa
+[9] The Call of Christ - Fr. George Calciu - YouTube https://www.youtube.com/watch?v=JbHlLP7-wsc
+[10] Romania Blog 2015 - Methodist College https://www.methodistcol.edu/romania-blog-2015.aspx
+[11] Fr. George Calciu 'Relics' Reburied to End Scandal, No Sainthood ... https://www.orthodoxytoday.org/blog/2013/12/fr-george-calciu-relics-reburied-to-end-scandal-no-sainthood-claim/
+[12] Fr. George and Persecution in America - Ancient Faith Ministries https://www.ancientfaith.com/podcasts/frederica/fr_george_and_persecution_in_america/
+[13] How (And Why) To Suffer Well - The American Conservative https://www.theamericanconservative.com/suffering-live-not-by-lies/
+[14] Fr. George Calciu – In Memory (3 years from his repose in Christ) https://orthodoxword.wordpress.com/2009/11/23/fr-george-calciu-%E2%80%93-in-memory-3-years-from-his-repose-in-christ/
+[15] The Relic of Fr. George Calciu the Confessor Found Incorrupt https://www.johnsanidopoulos.com/2013/12/the-relic-of-fr-george-calciu-confessor.html
+[16] BOOK REVIEW: Fr. George Calciu: First Century Christian in the ... https://dowoca.org/2015/01/07/book-review-fr-george-calciu-first-century-christian-in-the-twentieth-century/
+[17] Father George Calciu - St. Tikhon's Monastery Bookstore https://stmpress.com/products/father-george-calciu-interviews-homilies-and-talks
+[18] The uncovering of relics of Father George Calciu and his reburial ... https://orthodoxword.wordpress.com/2013/12/15/the-uncovering-of-relics-of-father-george-calciu-and-his-reburial-what-father-george-tells-us-about-the-relics-of-the-saints-and-their-power/
+[19] The relics of the saints and their power with Father George Calciu https://orthodoxword.wordpress.com/2013/12/20/the-relics-of-the-saints-and-their-power-with-father-george-calciu-part-ii/
+[20] Father George Calciu - Orthodox Talks https://www.orthodoxtalks.com/father-george-calciu/

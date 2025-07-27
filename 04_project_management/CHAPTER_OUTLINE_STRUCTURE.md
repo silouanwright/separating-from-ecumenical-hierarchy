@@ -446,12 +446,6 @@ Here's what I find interesting - weren't all our beloved saints not canonized du
 - **Maria's Response**: Consensus patrum principle, proper patristic interpretation vs. dismissal
 - Defending legitimate use of patristic sources against methodological attacks
 
-### **Chapter 18: "You're Depriving Your Children of Sacraments"**
-- **Maria's Encounter**: Orthodox family attacks her for "spiritual child abuse"
-- "Without the Divine Body and Blood of Christ, you have no life in you"
-- "You're choosing death over life," fear-mongering about children's salvation
-- **Maria's Response**: Canon 65, spiritual contamination principles, protecting children from heretical communion
-- Orthodox teaching on when separation becomes necessary for salvation
 
 ### **Chapter 19: "You're Following Websites Instead of Priests"**
 - **Maria's Encounter**: Dismissal of her sources as "internet research"
