@@ -3,7 +3,9 @@
     "allow": [
       "Bash(cat:*)",
       "Bash(grep:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "WebFetch(domain:www.rocorstudies.org)",
+      "WebFetch(domain:orthodoxwitness.org)"
     ],
     "deny": []
   }
