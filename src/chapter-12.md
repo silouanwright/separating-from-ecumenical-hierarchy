@@ -1,12 +1,4 @@
-## Chapter 11: "We Have to Be Obedient to Our Bishops/Priests..."
-
-- **Maria's Encounter**: Parish Council Member confronts her about missing liturgy
-- Authority/hierarchy arguments, dismissing her as unqualified single mother
-- "We've been Orthodox for generations, and we've always obeyed our bishops"
-- **Maria's Response**: St. Maximus opposing five patriarchs, Apostolic Constitution on avoiding destructive shepherds
-- Orthodox understanding of obedience vs blind submission when bishops fall into heresy
-
-### **Chapter 12: "Just Pray and Let God Handle It"**
+## Chapter 12: "Just Pray and Let God Handle It"
 
 **Maria's Inner Monologue**: *It's been three weeks since I stopped attending Divine Liturgy, and I've been spending Sunday mornings doing Typica with the children and studying the Fathers.*
 
@@ -98,12 +90,3 @@ So "just pray while ignoring these teachings" asks you to maintain spiritual pra
 *Focus on your beautiful children instead of worrying about bishops you've never even met. This obsession isn't healthy, honey.*
 
 *...I'll be praying for you, Maria."*
-
-
-### **Chapter 13: "The Church Uses Economia" - Father Michael's Threats**
-- **Maria's Encounter**: Father Michael learns she's been "spreading dissent"
-- People have been asking her for explanations, she's simply sharing her canonical position
-- His accusations: "causing scandal," "disturbing parish peace," "making it impossible to help you"
-- Economia manipulation: Using pastoral flexibility to justify ignoring canonical violations
-- **Maria's Response**: Economia cannot override fundamental doctrine, proper vs. improper applications
-- The threat: "If you continue disturbing the peace..."

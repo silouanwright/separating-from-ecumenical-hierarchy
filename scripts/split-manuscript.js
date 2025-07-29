@@ -3,8 +3,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const MANUSCRIPT_PATH = '../../01_core_argument/MAIN_ARGUMENT_DOCUMENT.md';
-const OUTPUT_DIR = './src';
+const MANUSCRIPT_PATH = '../archive/MAIN_ARGUMENT_DOCUMENT.md';
+const OUTPUT_DIR = '../src';
 
 function splitManuscript() {
     console.log('Reading manuscript...');
@@ -23,9 +23,18 @@ function splitManuscript() {
         const line = lines[i];
         
         // Check if this line starts a new chapter
-        const chapterMatch = line.match(/^## Chapter (\d+):/);
+        const chapterMatch = line.match(/^## Chapter (\d+): (.+)$/);
         
         if (chapterMatch) {
+            const chapterTitle = chapterMatch[2];
+            
+            // Skip old content that's marked for reorganization
+            if (chapterTitle.includes('[OLD CONTENT - TO BE REORGANIZED]')) {
+                console.log(`Skipping old content: ${line}`);
+                currentContent.push(line); // Add to current content but don't create new chapter
+                continue;
+            }
+            
             // Save previous chapter if it exists
             if (currentChapter !== null) {
                 saveChapter(currentChapter, currentContent);

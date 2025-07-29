@@ -1,4 +1,4 @@
-## Chapter 18: What This Means for You
+## Chapter 24: What This Means for You
 
 ### The Importance of Scholarly Response
 

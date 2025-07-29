@@ -1,4 +1,4 @@
-## Chapter 24: Practical Guidance
+## Chapter 22: Practical Guidance
 
 ### Maria's Journey: From One Family to a Movement for Conciliar Restoration
 

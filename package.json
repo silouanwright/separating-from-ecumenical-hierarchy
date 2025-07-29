@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-book": "cd book-project && node scripts/build-manuscript.js",
+    "build": "node scripts/build-manuscript.js",
+    "split-from-archive": "node scripts/split-manuscript.js",
     "prepare": "husky"
   },
   "keywords": [],
