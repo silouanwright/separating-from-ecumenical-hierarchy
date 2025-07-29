@@ -11,7 +11,7 @@ This repository contains the complete Orthodox theological work on separation fr
 │   ├── chapter-01.md        # Individual chapters
 │   ├── chapter-02.md        # (24 chapters total)
 │   └── ...
-├── dist/                    # Generated files (gitignored)
+├── dist/                    # Generated complete manuscript
 │   └── complete-manuscript.md
 ├── scripts/
 │   ├── build-manuscript.js  # Concatenates chapters
@@ -27,8 +27,8 @@ This repository contains the complete Orthodox theological work on separation fr
 
 1. **Edit chapters** in `src/` directory (each chapter is self-contained)
 2. **Generate manuscript**: `npm run build`
-3. **Git hooks**: Pre-commit automatically rebuilds manuscript
-4. **Generated files**: `dist/` is gitignored - build on demand
+3. **Git hooks**: Pre-commit automatically rebuilds and commits manuscript
+4. **Generated files**: `dist/complete-manuscript.md` tracked in git for Claude Code access
 
 ## Commands
 
