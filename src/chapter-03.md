@@ -151,3 +151,5 @@ This created **precisely the same crisis** Maria faces: **orthodox priests servi
 ³⁶ "Byzantine Iconoclasm and the Triumph of Orthodoxy," Khan Academy.
 ³⁷ "Triumph of Orthodoxy icon," Wikipedia.
 ³⁸ "Learn: Sunday of Orthodoxy," Greek Orthodox Archdiocese of America.
+
+³² Cardinal John Henry Newman, *The Arians of the Fourth Century* (London: Longmans, Green and Co., 1890): "the Catholic people, in the length and breadth of Christendom, were the obstinate champions of Catholic truth, and the bishops were not." Newman documented how during the Arian crisis "the whole world groaned and marvelled to find itself Arian" when approximately 400 Western bishops signed Arian formulas at Ariminum in 359, yet the lay faithful preserved orthodoxy through canonical resistance to heretical hierarchy.

@@ -264,6 +264,8 @@ Think of liturgical commemoration like a business partnership. When you sign you
 
 ²³ "Autocephaly and the diptychs," OpenEdition Books; "From Pentarchy to Diptychs," Moscow Patriarchate analytical article (2021), on historical significance of commemorative lists.
 
+^A7a^ Canon 15 of the First-Second Council of Constantinople (861 AD), *The Rudder (Pedalion)*, trans. D. Cummings (Chicago: Orthodox Christian Educational Society, 1957): "Those who separate from their bishop before a synodical investigation because he himself is preaching some misbelief and heresy publicly and bareheadedly in church... not only are not subject to any canonical penalty... but, on the contrary, they shall be deemed worthy to enjoy the honor which befits them among Orthodox Christians. For they have defied, not Bishops, but pseudo-bishops and pseudo-teachers."
+
 ## Chapter 2: Why You Can't Separate Yourself from Your Bishop's Actions
 
 **As we established in Chapter 1**, liturgical commemoration creates unavoidable spiritual unity between you and your bishop. Every Divine Liturgy, your priest declares that your bishop "rightly teaches the word of Your truth" and offers him to God as part of the Eucharistic sacrifice. **You participate in this declaration** through your attendance and communion.
@@ -447,6 +449,14 @@ Maria now understands both **what liturgical commemoration is** and **why it cre
 
 **As we will establish in the next chapter**, Orthodox Christians during iconoclasm faced exactly this situation - orthodox priests under problematic bishops. Their response provides the perfect precedent for understanding how Orthodox tradition handles these complex situations.
 
+---
+
+**Chapter 2 Additional Citations**
+
+^B1^ St. John Chrysostom, *Homily 18 on Matthew*, PG 57:269: "What then, you say, when he is wicked should we obey? Wicked? In what sense? If indeed in regard to Faith, flee and avoid him; not only if he be a man, but even if he be an angel come down from Heaven."
+
+^B2^ St. John Chrysostom, cited in Orthodox patristic sources on communion with heretics: "Do not have any communion with them (heretics)—do not eat with them, do not drink, do not bind friendships with them," and "loudly declares not only heretics, but also those who have communion with them, to be enemies of God."
+
 ## Chapter 3: What is Iconoclasm?
 
 ### Understanding St. Theodore the Studite
@@ -600,6 +610,8 @@ This created **precisely the same crisis** Maria faces: **orthodox priests servi
 ³⁶ "Byzantine Iconoclasm and the Triumph of Orthodoxy," Khan Academy.
 ³⁷ "Triumph of Orthodoxy icon," Wikipedia.
 ³⁸ "Learn: Sunday of Orthodoxy," Greek Orthodox Archdiocese of America.
+
+³² Cardinal John Henry Newman, *The Arians of the Fourth Century* (London: Longmans, Green and Co., 1890): "the Catholic people, in the length and breadth of Christendom, were the obstinate champions of Catholic truth, and the bishops were not." Newman documented how during the Arian crisis "the whole world groaned and marvelled to find itself Arian" when approximately 400 Western bishops signed Arian formulas at Ariminum in 359, yet the lay faithful preserved orthodoxy through canonical resistance to heretical hierarchy.
 
 ## Chapter 4: How Orthodox Christians Responded During Iconoclasm
 
@@ -1219,6 +1231,12 @@ He explained that ecumenism is **"more dangerous than had ever made its appearan
 
 **As Maria sat back in her chair, a profound realization washed over her.** All these years, she'd thought spiritual concerns about episcopal compromise were signs of her own spiritual immaturity. Instead, she'd discovered she was thinking exactly like Orthodox saints. **Her spiritual intuition wasn't wrong - it was patristically validated.**
 
+---
+
+**Chapter 6 Additional Citations**
+
+^C1^ Metropolitan Augustine Kantiotis, quoted in Orthodox sources on episcopal authority: "The bishop must obey the Gospel. This is why when the Bishop is ordained, he is ordained under the Gospel. As the Fathers say, this means that the people shall obey the Bishop on one condition – that the Bishop obey the Gospel. But when the Bishop does not obey the Gospel and does not do according to the Holy Canons, then the clergy and the people are not obliged to obey the Bishop."
+
 ## Chapter 7: The History of Ecumenism
 
 ### The Protestant Origins of Modern Ecumenism: How Orthodox Hierarchs Surrendered to Alien Ecclesiology
@@ -1734,6 +1752,12 @@ During the Great Entrance, ROCOR priests pray: **"For His Holiness Kirill, Patri
 His response was canonically devastating:
 
 > **"If they believe that the Pope is a church and has mysteries and we have to unite, they aren't shepherds but wolves in shepherds clothing. Whoever, the Patriarch or the archbishop is, who says something that the fathers and the gospel haven't said... when they say that the Pope is a church and has mysteries and we have to unite... even if he fasts... even if he prophesies... even if he practices virginity... does signs... does miracles... he's a wolf and not a shepherd... [According to] St. Ignatius the God-bearer."**¹³⁷
+
+**Elder Gabriel's authority derives from authentic Mount Athos tradition**, which has preserved Orthodox resistance patterns across centuries. **Mount Athos - the Holy Mountain where Orthodox monasticism has been practiced unchanged for over 1000 years** - provided the definitive Orthodox explanation during imperial pressure for union with Rome in the 13th century:
+
+> **"The Orthodox Church of God from the very beginning has acknowledged that mentioning a hierarch's name inside the sanctuary means complete communion with him... when the celebrant commemorates the bishop's name, he thus demonstrates his submission to a superior, and that he is in communion with him, and a follower of him in the Faith and in the holy Mysteries."**^D1^
+
+**Mount Athos today maintains the same position**, with numerous Athonite cells ceasing commemoration of patriarchs deemed to compromise Orthodox ecclesiology while remaining within the broader Orthodox communion. **This "walling off" follows canonical precedent while avoiding schism.**^D2^
 
 **Elder Gabriel's framework is ironclad because it addresses any defense**: **Even if hierarchs appear personally holy through fasting, prophecy, or miracles**, when they teach union with heretics **they become "wolves in shepherds clothing" according to St. Ignatius the God-bearer**¹³⁸.
 
@@ -2343,6 +2367,12 @@ His response was canonically devastating:
 ¹⁷⁸ Ecumenical Patriarch Bartholomew's condemnation of Kirill: Bartholomew called Kirill's stance "damaging to the prestige of the whole of Orthodoxy," declared the war "diabolical" and "unholy," and stated "The Russian church disappointed us." Source: Multiple Orthodox news sources documenting Bartholomew's statements.
 
 ¹⁷⁹ Baltic Orthodox Churches condemning "Russian World": Finnish Orthodox Church declared "We reject the heresy of the 'Russian world' and the shameful actions of the Russian administration." Estonian Metropolitan Stephanos condemned it as "provocative, expansionist, and fundamentally un-Christian." Hundreds of Orthodox theologians signed declarations condemning "Russian World" as heresy. Sources: CNE News, Orthodox Times.
+
+**Chapter 9 Additional Citations**
+
+^D1^ Mount Athos Letter to Emperor Michael VIII Paleologus (13th century), cited in Orthodox sources on liturgical commemoration: "The Orthodox Church of God from the very beginning has acknowledged that mentioning a hierarch's name inside the sanctuary means complete communion with him... when the celebrant commemorates the bishop's name, he thus demonstrates his submission to a superior, and that he is in communion with him, and a follower of him in the Faith and in the holy Mysteries."
+
+^D2^ Contemporary Mount Athos practice of "walling off" compromised hierarchs: Numerous Athonite cells have ceased commemoration of patriarchs deemed to compromise Orthodox ecclesiology while remaining within the broader Orthodox communion, following canonical precedent while avoiding formal schism.
 
 **Research Notes:**
 

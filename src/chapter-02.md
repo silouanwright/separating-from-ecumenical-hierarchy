@@ -180,3 +180,11 @@ When Maria attends liturgy where Archbishop John is commemorated:
 Maria now understands both **what liturgical commemoration is** and **why it creates serious spiritual consequences**. But she wonders: **"Have Orthodox Christians ever faced this situation before? How did they respond?"**
 
 **As we will establish in the next chapter**, Orthodox Christians during iconoclasm faced exactly this situation - orthodox priests under problematic bishops. Their response provides the perfect precedent for understanding how Orthodox tradition handles these complex situations.
+
+---
+
+**Chapter 2 Additional Citations**
+
+^B1^ St. John Chrysostom, *Homily 18 on Matthew*, PG 57:269: "What then, you say, when he is wicked should we obey? Wicked? In what sense? If indeed in regard to Faith, flee and avoid him; not only if he be a man, but even if he be an angel come down from Heaven."
+
+^B2^ St. John Chrysostom, cited in Orthodox patristic sources on communion with heretics: "Do not have any communion with them (heretics)—do not eat with them, do not drink, do not bind friendships with them," and "loudly declares not only heretics, but also those who have communion with them, to be enemies of God."

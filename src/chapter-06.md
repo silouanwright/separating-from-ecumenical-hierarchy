@@ -181,3 +181,9 @@ He explained that ecumenism is **"more dangerous than had ever made its appearan
 **The unanimous Orthodox witness is clear**: When bishops embrace the pan-heresy of ecumenism, faithful Orthodox must exercise their canonical authority to separate from compromised hierarchy, exactly as Orthodox saints had done throughout Church history. **The overwhelming authority** - **saints, elders, bishops, and entire Orthodox jurisdictions** - creates a patristic consensus that becomes **impossible to dismiss or rationalize away**.
 
 **As Maria sat back in her chair, a profound realization washed over her.** All these years, she'd thought spiritual concerns about episcopal compromise were signs of her own spiritual immaturity. Instead, she'd discovered she was thinking exactly like Orthodox saints. **Her spiritual intuition wasn't wrong - it was patristically validated.**
+
+---
+
+**Chapter 6 Additional Citations**
+
+^C1^ Metropolitan Augustine Kantiotis, quoted in Orthodox sources on episcopal authority: "The bishop must obey the Gospel. This is why when the Bishop is ordained, he is ordained under the Gospel. As the Fathers say, this means that the people shall obey the Bishop on one condition – that the Bishop obey the Gospel. But when the Bishop does not obey the Gospel and does not do according to the Holy Canons, then the clergy and the people are not obliged to obey the Bishop."

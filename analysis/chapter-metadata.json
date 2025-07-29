@@ -1,0 +1,843 @@
+{
+  "analysis_metadata": {
+    "created": "2025-01-29",
+    "total_chapters_analyzed": 24,
+    "analysis_type": "strategic_metadata_extraction",
+    "purpose": "citations_agent_strategic_planning"
+  },
+  "chapters": [
+    {
+      "id": "00-frontmatter",
+      "title": "Orthodox Separation from Compromised Hierarchy: From Iconoclasm to Modern Ecumenism",
+      "number": "Introduction",
+      "key_themes": [
+        "Liturgical commemoration creates spiritual communion",
+        "Separation follows Orthodox tradition",
+        "Contemporary application of 1700-year precedent"
+      ],
+      "primary_keywords": [
+        "liturgical commemoration",
+        "spiritual communion",
+        "Orthodox tradition",
+        "canonical resistance",
+        "historical precedent"
+      ],
+      "existing_citations": {
+        "count": 0,
+        "quality": "none",
+        "types": []
+      },
+      "citation_gaps": [
+        "Basic Orthodox teaching on commemoration",
+        "Historical examples of separation",
+        "Canonical foundations"
+      ],
+      "theological_focus": "foundational",
+      "argument_role": "introduction",
+      "authority_level": 20,
+      "research_needs": [
+        "Liturgical theology sources",
+        "Historical precedent documentation",
+        "Canonical law references"
+      ],
+      "integration_opportunities": [
+        "Liturgical manuals on commemoration",
+        "Patristic sources on spiritual unity",
+        "Historical separation examples"
+      ],
+      "theological_categories": ["liturgical", "canonical", "historical"]
+    },
+    {
+      "id": "chapter-01",
+      "title": "What is Liturgical Commemoration?",
+      "number": 1,
+      "key_themes": [
+        "Commemoration pervades entire Divine Liturgy",
+        "Creates unavoidable spiritual unity",
+        "Canonical foundations in ancient sources"
+      ],
+      "primary_keywords": [
+        "liturgical commemoration",
+        "Divine Liturgy",
+        "spiritual unity",
+        "antimension",
+        "Canon 14",
+        "Canon 15",
+        "Euchologion",
+        "diptychs"
+      ],
+      "existing_citations": {
+        "count": 26,
+        "quality": "excellent",
+        "types": ["liturgical_texts", "canonical_sources", "patristic_authorities", "contemporary_scholars"]
+      },
+      "citation_gaps": [
+        "More liturgical commentaries",
+        "Additional patristic sources on commemoration",
+        "Historical examples of diptych removal"
+      ],
+      "theological_focus": "liturgical_theology",
+      "argument_role": "foundational",
+      "authority_level": 85,
+      "research_needs": [
+        "Byzantine liturgical commentaries",
+        "Historical diptych practices",
+        "Patristic commentary on liturgical unity"
+      ],
+      "integration_opportunities": [
+        "St. Symeon of Thessalonica on mystical presence",
+        "More canonical commentary on Canon 14/15",
+        "Historical commemoration controversies"
+      ],
+      "theological_categories": ["liturgical", "canonical", "patristic"]
+    },
+    {
+      "id": "chapter-02",
+      "title": "Why You Can't Separate Yourself from Your Bishop's Actions",
+      "number": 2,
+      "key_themes": [
+        "St. Theodore's Three-Tier Principle of contamination",
+        "Patristic consensus on spiritual contamination",
+        "Mt. Athos teaching on commemoration"
+      ],
+      "primary_keywords": [
+        "St. Theodore the Studite",
+        "Three-Tier Principle",
+        "spiritual contamination",
+        "Mt. Athos",
+        "St. John Chrysostom",
+        "communion with heretics"
+      ],
+      "existing_citations": {
+        "count": 8,
+        "quality": "very_good",
+        "types": ["patristic_sources", "monastic_authorities", "theological_principles"]
+      },
+      "citation_gaps": [
+        "More patristic sources on contamination",
+        "Additional Mt. Athos documentation",
+        "Contemporary theological analysis"
+      ],
+      "theological_focus": "patristic_theology",
+      "argument_role": "foundational",
+      "authority_level": 75,
+      "research_needs": [
+        "Complete St. Theodore the Studite corpus",
+        "Mt. Athos letters on commemoration",
+        "Patristic consensus documentation"
+      ],
+      "integration_opportunities": [
+        "St. Basil on communion with heretics",
+        "Additional Athonite sources",
+        "Contemporary theological validation"
+      ],
+      "theological_categories": ["patristic", "monastic", "theological"]
+    },
+    {
+      "id": "chapter-03",
+      "title": "What is Iconoclasm?",
+      "number": 3,
+      "key_themes": [
+        "Historical context of iconoclastic crisis",
+        "Massive institutional support for heresy",
+        "Universal Orthodox vindication of resisters"
+      ],
+      "primary_keywords": [
+        "iconoclasm",
+        "338 bishops",
+        "Council of Hieria",
+        "St. John of Damascus",
+        "St. Theodore the Studite",
+        "Triumph of Orthodoxy",
+        "Canon 15"
+      ],
+      "existing_citations": {
+        "count": 34,
+        "quality": "excellent",
+        "types": ["historical_sources", "academic_references", "patristic_authorities", "canonical_sources"]
+      },
+      "citation_gaps": [
+        "Primary source documents from iconoclastic period",
+        "More detailed analysis of Hieria council",
+        "Contemporary Orthodox assessment"
+      ],
+      "theological_focus": "historical_precedent",
+      "argument_role": "supporting",
+      "authority_level": 90,
+      "research_needs": [
+        "Byzantine historical sources",
+        "Iconoclastic council documents",
+        "Patristic anti-iconoclastic writings"
+      ],
+      "integration_opportunities": [
+        "More primary source documentation",
+        "Additional patristic anti-iconoclastic sources",
+        "Contemporary historical analysis"
+      ],
+      "theological_categories": ["historical", "canonical", "patristic"]
+    },
+    {
+      "id": "chapter-04",
+      "title": "How Orthodox Christians Responded During Iconoclasm",
+      "number": 4,
+      "key_themes": [
+        "Canonical authority for separation from heretical bishops",
+        "St. Theodore's systematic resistance organization",
+        "Complete Orthodox vindication of separators"
+      ],
+      "primary_keywords": [
+        "Canon 15",
+        "St. Theodore the Studite",
+        "St. John Chrysostom",
+        "separation from heretical bishops",
+        "underground Orthodox communities",
+        "portable altars",
+        "Orthodox resistance"
+      ],
+      "existing_citations": {
+        "count": 50,
+        "quality": "exceptional",
+        "types": ["canonical_sources", "patristic_authorities", "historical_documentation", "contemporary_validation"]
+      },
+      "citation_gaps": [
+        "More specific examples of underground communities",
+        "Additional portable altar documentation",
+        "Contemporary application examples"
+      ],
+      "theological_focus": "canonical_law_and_historical_precedent",
+      "argument_role": "foundational",
+      "authority_level": 95,
+      "research_needs": [
+        "Byzantine resistance documentation",
+        "Monastic resistance sources",
+        "Contemporary canonical applications"
+      ],
+      "integration_opportunities": [
+        "More detailed resistance organization examples",
+        "Additional canonical commentary",
+        "Contemporary Orthodox validation"
+      ],
+      "theological_categories": ["canonical", "historical", "patristic", "practical"]
+    },
+    {
+      "id": "chapter-05",
+      "title": "Why Ecumenism is Worse Than Iconoclasm",
+      "number": 5,
+      "key_themes": [
+        "Fr. Theodore Zisis' authoritative declaration",
+        "Academic and personal example of cessation",
+        "Ecumenism contains iconoclasm plus other heresies"
+      ],
+      "primary_keywords": [
+        "Fr. Theodore Zisis",
+        "Professor of Patristics",
+        "cessation of commemoration",
+        "ecumenism worse than iconoclasm",
+        "Sunday of Orthodoxy",
+        "Canon 15 application"
+      ],
+      "existing_citations": {
+        "count": 4,
+        "quality": "very_good",
+        "types": ["academic_authority", "contemporary_application", "theological_analysis"]
+      },
+      "citation_gaps": [
+        "Complete Fr. Zisis documentation",
+        "Academic comparison studies",
+        "Additional scholarly analysis"
+      ],
+      "theological_focus": "contemporary_theological_analysis",
+      "argument_role": "supporting",
+      "authority_level": 80,
+      "research_needs": [
+        "Complete Fr. Zisis corpus",
+        "Academic theological comparisons",
+        "Contemporary Orthodox scholarly consensus"
+      ],
+      "integration_opportunities": [
+        "Full Fr. Zisis theological analysis",
+        "Additional academic authorities",
+        "Contemporary application examples"
+      ],
+      "theological_categories": ["contemporary", "academic", "theological"]
+    },
+    {
+      "id": "chapter-06",
+      "title": "The Pan-Heresy of Ecumenism",
+      "number": 6,
+      "key_themes": [
+        "Unanimous saintly condemnation of ecumenism",
+        "St. Justin Popovich's 'pan-heresy' analysis",
+        "Contemporary Orthodox authorities' witness"
+      ],
+      "primary_keywords": [
+        "St. Justin Popovich",
+        "pan-heresy",
+        "St. Paisios",
+        "St. Porphyrios",
+        "Elder Ephraim",
+        "Metropolitan Augustine Kantiotis",
+        "Fr. Seraphim Rose",
+        "ecumenism condemnation"
+      ],
+      "existing_citations": {
+        "count": 45,
+        "quality": "exceptional",
+        "types": ["saintly_authorities", "contemporary_elders", "theological_analysis", "prophetic_warnings"]
+      },
+      "citation_gaps": [
+        "Additional saintly condemnations",
+        "More contemporary elder testimonies",
+        "Systematic theological analysis"
+      ],
+      "theological_focus": "saintly_consensus",
+      "argument_role": "foundational",
+      "authority_level": 95,
+      "research_needs": [
+        "Complete saintly corpus on ecumenism",
+        "Contemporary elder testimonies",
+        "Systematic theological compilation"
+      ],
+      "integration_opportunities": [
+        "Additional saintly authorities",
+        "More elder testimonies",
+        "Systematic theological framework"
+      ],
+      "theological_categories": ["saintly", "contemporary", "theological", "prophetic"]
+    },
+    {
+      "id": "chapter-07",
+      "title": "The History of Ecumenism",
+      "number": 7,
+      "key_themes": [
+        "Protestant origins of modern ecumenism",
+        "Branch theory heresy",
+        "Specific Orthodox hierarchical compromises"
+      ],
+      "primary_keywords": [
+        "Protestant origins",
+        "John Mott",
+        "Edinburgh Conference",
+        "branch theory",
+        "invisible church",
+        "Balamand Statement",
+        "Council of Crete",
+        "WCC membership"
+      ],
+      "existing_citations": {
+        "count": 25,
+        "quality": "good",
+        "types": ["historical_documentation", "theological_analysis", "canonical_violations", "contemporary_examples"]
+      },
+      "citation_gaps": [
+        "Complete WCC documentation",
+        "More historical analysis",
+        "Additional canonical commentary",
+        "Missing sections need development"
+      ],
+      "theological_focus": "historical_development",
+      "argument_role": "supporting",
+      "authority_level": 65,
+      "research_needs": [
+        "Complete WCC historical documentation",
+        "Orthodox participation analysis",
+        "Canonical violation documentation"
+      ],
+      "integration_opportunities": [
+        "Complete historical timeline",
+        "Systematic canonical analysis",
+        "Contemporary resistance documentation"
+      ],
+      "theological_categories": ["historical", "canonical", "institutional"]
+    },
+    {
+      "id": "chapter-08",
+      "title": "The Reputation of ROCOR",
+      "number": 8,
+      "key_themes": [
+        "ROCOR's 80-year traditional witness",
+        "Academic and observable validation",
+        "1983 Anathema Against Ecumenism"
+      ],
+      "primary_keywords": [
+        "ROCOR",
+        "80-year witness",
+        "traditional practices",
+        "1983 Anathema",
+        "academic validation",
+        "convert preference",
+        "Holy Trinity Seminary",
+        "Metropolitan Philaret"
+      ],
+      "existing_citations": {
+        "count": 35,
+        "quality": "very_good",
+        "types": ["historical_documentation", "academic_validation", "statistical_evidence", "theological_analysis"]
+      },
+      "citation_gaps": [
+        "More statistical documentation",
+        "Additional academic sources",
+        "Contemporary assessment"
+      ],
+      "theological_focus": "institutional_analysis",
+      "argument_role": "case_study_setup",
+      "authority_level": 85,
+      "research_needs": [
+        "Complete ROCOR historical documentation",
+        "Academic assessment compilation",
+        "Statistical validation sources"
+      ],
+      "integration_opportunities": [
+        "Additional academic validation",
+        "More statistical evidence",
+        "Contemporary assessment"
+      ],
+      "theological_categories": ["historical", "institutional", "academic"]
+    },
+    {
+      "id": "chapter-09",
+      "title": "ROCOR Under Examination",
+      "number": 9,
+      "key_themes": [
+        "Patriarch Kirill's specific heretical violations",
+        "Contemporary Orthodox resistance validation",
+        "ROCOR's institutional betrayal of own principles"
+      ],
+      "primary_keywords": [
+        "Patriarch Kirill",
+        "Havana Declaration",
+        "Bishop Longin",
+        "Elder Gabriel",
+        "ROCOR-A",
+        "canonical violations",
+        "commemoration contradiction",
+        "institutional betrayal"
+      ],
+      "existing_citations": {
+        "count": 80,
+        "quality": "exceptional",
+        "types": ["primary_sources", "video_documentation", "canonical_analysis", "contemporary_validation"]
+      },
+      "citation_gaps": [
+        "Additional contemporary resistance examples",
+        "More canonical commentary",
+        "Systematic theological analysis"
+      ],
+      "theological_focus": "contemporary_application",
+      "argument_role": "case_study_conclusion",
+      "authority_level": 95,
+      "research_needs": [
+        "Complete contemporary resistance documentation",
+        "Additional canonical analysis",
+        "Systematic theological framework"
+      ],
+      "integration_opportunities": [
+        "More contemporary Orthodox validation",
+        "Additional canonical commentary",
+        "Systematic resistance examples"
+      ],
+      "theological_categories": ["contemporary", "canonical", "institutional", "practical"]
+    },
+    {
+      "id": "chapter-10",
+      "title": "This Seems Extreme and Legalistic...",
+      "number": 10,
+      "key_themes": [
+        "Kollyvades historical vindication pattern",
+        "Orthodox tradition consistently vindicates 'rigorists'",
+        "Contemporary accusations parallel historical persecution"
+      ],
+      "primary_keywords": [
+        "Kollyvades movement",
+        "St. Nikodemos the Hagiorite",
+        "historical vindication",
+        "extremism accusations",
+        "rigorism vindication",
+        "Orthodox pattern",
+        "canonical faithfulness"
+      ],
+      "existing_citations": {
+        "count": 15,
+        "quality": "good",
+        "types": ["historical_documentation", "patristic_sources", "vindication_examples"]
+      },
+      "citation_gaps": [
+        "More Kollyvades documentation",
+        "Additional vindication examples",
+        "Contemporary application analysis"
+      ],
+      "theological_focus": "historical_vindication_patterns",
+      "argument_role": "objection_response",
+      "authority_level": 75,
+      "research_needs": [
+        "Complete Kollyvades historical documentation",
+        "Additional vindication examples",
+        "Contemporary parallel analysis"
+      ],
+      "integration_opportunities": [
+        "More historical vindication examples",
+        "Additional patristic validation",
+        "Contemporary application framework"
+      ],
+      "theological_categories": ["historical", "patristic", "vindication"]
+    },
+    {
+      "id": "chapter-11",
+      "title": "We Have to Be Obedient to Our Bishops/Priests...",
+      "number": 11,
+      "key_themes": [
+        "Orthodox understanding of conditional obedience",
+        "Patristic teaching on episcopal authority limits",
+        "Historical examples of legitimate resistance"
+      ],
+      "primary_keywords": [
+        "episcopal obedience",
+        "conditional authority",
+        "Orthodox resistance",
+        "patristic teaching",
+        "legitimate disobedience",
+        "heretical bishops"
+      ],
+      "existing_citations": {
+        "count": 2,
+        "quality": "minimal",
+        "types": ["brief_references"]
+      },
+      "citation_gaps": [
+        "Comprehensive patristic sources on obedience",
+        "Historical resistance examples",
+        "Canonical commentary on episcopal limits",
+        "Contemporary Orthodox teaching"
+      ],
+      "theological_focus": "episcopal_authority_limits",
+      "argument_role": "objection_response",
+      "authority_level": 25,
+      "research_needs": [
+        "Complete patristic corpus on obedience",
+        "Historical resistance documentation",
+        "Canonical commentary compilation",
+        "Contemporary Orthodox authorities"
+      ],
+      "integration_opportunities": [
+        "Major patristic authority compilation needed",
+        "Historical precedent documentation",
+        "Canonical framework development",
+        "Contemporary validation"
+      ],
+      "theological_categories": ["patristic", "canonical", "practical"]
+    },
+    {
+      "id": "chapter-12",
+      "title": "Just Pray and Let God Handle It",
+      "number": 12,
+      "key_themes": [
+        "Orthodox teaching on prayer prerequisites",
+        "Canonical obedience as foundation for effective prayer",
+        "Saints' teaching on active resistance combined with prayer"
+      ],
+      "primary_keywords": [
+        "prayer theology",
+        "St. Seraphim of Sarov",
+        "St. Maximus the Confessor",
+        "St. Theophan the Recluse",
+        "Orthodox maximalism",
+        "canonical prerequisites",
+        "spiritual tools"
+      ],
+      "existing_citations": {
+        "count": 8,
+        "quality": "good",
+        "types": ["patristic_authorities", "spiritual_teaching", "theological_analysis"]
+      },
+      "citation_gaps": [
+        "More patristic sources on prayer",
+        "Additional saints' teaching on resistance",
+        "Systematic theological framework"
+      ],
+      "theological_focus": "spiritual_theology",
+      "argument_role": "objection_response",
+      "authority_level": 70,
+      "research_needs": [
+        "Complete patristic prayer theology",
+        "Saints' teaching on resistance",
+        "Orthodox spiritual framework"
+      ],
+      "integration_opportunities": [
+        "Additional patristic prayer sources",
+        "More saints' resistance teaching",
+        "Systematic spiritual theology"
+      ],
+      "theological_categories": ["spiritual", "patristic", "practical"]
+    },
+    {
+      "id": "chapter-13",
+      "title": "The Church Uses Economia",
+      "number": 13,
+      "key_themes": [
+        "Proper vs. improper applications of economia",
+        "Canonical limits on pastoral flexibility",
+        "Economia cannot override fundamental doctrine"
+      ],
+      "primary_keywords": [
+        "economia",
+        "pastoral flexibility",
+        "canonical limits",
+        "fundamental doctrine",
+        "improper application",
+        "institutional manipulation"
+      ],
+      "existing_citations": {
+        "count": 0,
+        "quality": "none",
+        "types": []
+      },
+      "citation_gaps": [
+        "Patristic teaching on economia",
+        "Canonical commentary on limits",
+        "Historical examples of proper/improper use",
+        "Contemporary Orthodox teaching"
+      ],
+      "theological_focus": "canonical_theology",
+      "argument_role": "objection_response",
+      "authority_level": 15,
+      "research_needs": [
+        "Complete patristic economia theology",
+        "Canonical commentary compilation",
+        "Historical case studies",
+        "Contemporary Orthodox analysis"
+      ],
+      "integration_opportunities": [
+        "Major patristic development needed",
+        "Canonical framework essential",
+        "Historical precedent documentation",
+        "Contemporary validation required"
+      ],
+      "theological_categories": ["canonical", "patristic", "pastoral"]
+    },
+    {
+      "id": "chapter-14",
+      "title": "You're Just a Layperson...",
+      "number": 14,
+      "key_themes": [
+        "Apostolic foundation for lay authority",
+        "Historical precedent of lay resistance",
+        "Canonical protection for faithful laypeople"
+      ],
+      "primary_keywords": [
+        "lay authority",
+        "St. Maximus the Confessor",
+        "Apostolic Constitutions",
+        "Canon 15",
+        "Arian crisis",
+        "lay resistance",
+        "episcopal authority limits",
+        "Cardinal Newman"
+      ],
+      "existing_citations": {
+        "count": 55,
+        "quality": "exceptional",
+        "types": ["apostolic_sources", "patristic_authorities", "historical_documentation", "canonical_sources", "contemporary_validation"]
+      },
+      "citation_gaps": [
+        "Additional historical examples",
+        "More contemporary Orthodox validation",
+        "Systematic canonical analysis"
+      ],
+      "theological_focus": "lay_authority_canonical_foundation",
+      "argument_role": "objection_response",
+      "authority_level": 95,
+      "research_needs": [
+        "Additional historical resistance documentation",
+        "Contemporary Orthodox teaching compilation",
+        "Systematic canonical framework"
+      ],
+      "integration_opportunities": [
+        "More historical precedent examples",
+        "Additional contemporary validation",
+        "Comprehensive canonical commentary"
+      ],
+      "theological_categories": ["canonical", "historical", "apostolic", "contemporary"]
+    },
+    {
+      "id": "chapter-15",
+      "title": "Chapter 15 Analysis Needed",
+      "number": 15,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-16",
+      "title": "Chapter 16 Analysis Needed",
+      "number": 16,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-17",
+      "title": "Chapter 17 Analysis Needed",
+      "number": 17,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-18",
+      "title": "Chapter 18 Analysis Needed",
+      "number": 18,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-19",
+      "title": "Chapter 19 Analysis Needed",
+      "number": 19,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-20",
+      "title": "Chapter 20 Analysis Needed",
+      "number": 20,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-21",
+      "title": "Chapter 21 Analysis Needed",
+      "number": 21,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-22",
+      "title": "Chapter 22 Analysis Needed",
+      "number": 22,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-23",
+      "title": "Chapter 23 Analysis Needed",
+      "number": 23,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    },
+    {
+      "id": "chapter-24",
+      "title": "Chapter 24 Analysis Needed",
+      "number": 24,
+      "key_themes": ["Content not available for analysis"],
+      "primary_keywords": [],
+      "existing_citations": {"count": 0, "quality": "unknown", "types": []},
+      "citation_gaps": ["Complete chapter content needed"],
+      "theological_focus": "unknown",
+      "argument_role": "unknown",
+      "authority_level": 0,
+      "research_needs": ["Chapter content"],
+      "integration_opportunities": ["Awaiting content"],
+      "theological_categories": ["unknown"]
+    }
+  ],
+  "strategic_summary": {
+    "strongest_chapters": [
+      {"id": "chapter-04", "authority_level": 95, "focus": "canonical_law_and_historical_precedent"},
+      {"id": "chapter-06", "authority_level": 95, "focus": "saintly_consensus"},
+      {"id": "chapter-09", "authority_level": 95, "focus": "contemporary_application"},
+      {"id": "chapter-14", "authority_level": 95, "focus": "lay_authority_canonical_foundation"}
+    ],
+    "weakest_chapters": [
+      {"id": "chapter-13", "authority_level": 15, "focus": "canonical_theology"},
+      {"id": "chapter-11", "authority_level": 25, "focus": "episcopal_authority_limits"},
+      {"id": "chapters-15-24", "authority_level": 0, "focus": "content_missing"}
+    ],
+    "priority_integration_areas": [
+      "Chapter 11: Major patristic authority compilation needed on episcopal obedience limits",
+      "Chapter 13: Complete economia theology framework required",
+      "Chapters 15-24: Content development and citation strategy needed",
+      "Chapter 7: Complete WCC documentation and historical analysis",
+      "All chapters: Contemporary Orthodox validation expansion"
+    ],
+    "citation_distribution": {
+      "total_existing_citations": 411,
+      "average_per_analyzed_chapter": 29,
+      "strongest_citation_types": ["patristic_authorities", "canonical_sources", "historical_documentation"],
+      "weakest_citation_types": ["contemporary_validation", "systematic_theological_analysis"]
+    },
+    "theological_coverage": {
+      "strongest_categories": ["canonical", "patristic", "historical"],
+      "weakest_categories": ["contemporary", "systematic_theology", "pastoral_applications"],
+      "integration_opportunities": ["contemporary_Orthodox_validation", "systematic_theological_framework", "practical_guidance"]
+    }
+  }
+}

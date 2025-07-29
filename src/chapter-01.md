@@ -200,3 +200,5 @@ Think of liturgical commemoration like a business partnership. When you sign you
 ²² "The Rite of Proskomedia: Who Is Included?" Orthodox liturgical commentaries, on particles offered to God during preparation.
 
 ²³ "Autocephaly and the diptychs," OpenEdition Books; "From Pentarchy to Diptychs," Moscow Patriarchate analytical article (2021), on historical significance of commemorative lists.
+
+^A7a^ Canon 15 of the First-Second Council of Constantinople (861 AD), *The Rudder (Pedalion)*, trans. D. Cummings (Chicago: Orthodox Christian Educational Society, 1957): "Those who separate from their bishop before a synodical investigation because he himself is preaching some misbelief and heresy publicly and bareheadedly in church... not only are not subject to any canonical penalty... but, on the contrary, they shall be deemed worthy to enjoy the honor which befits them among Orthodox Christians. For they have defied, not Bishops, but pseudo-bishops and pseudo-teachers."
