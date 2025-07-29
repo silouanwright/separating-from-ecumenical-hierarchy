@@ -128,9 +128,13 @@ Many Orthodox laypeople think: **"Whatever my bishop and patiarch do, doesn't co
 
 ### The Patristic Consensus on Spiritual Contamination
 
-**St. John Chrysostom** makes this absolutely clear: **"Do not have any communion with them (heretics)—do not eat with them, do not drink, do not bind friendships with them,"** and he **"loudly declares not only heretics, but also those who have communion with them, to be enemies of God."**
+**St. John Chrysostom** provides devastating clarity on communion with heretics. He taught what Orthodox theology calls the "discernment principle" for episcopal authority:
 
-**St. John Chrysostom is confirming St. Theodore's Three-Tier Principle** - this isn't just one saint's interpretation, but the consistent Orthodox teaching across centuries.
+> **"What then, you say, when he is wicked should we obey? Wicked? In what sense? If indeed in regard to Faith, flee and avoid him; not only if he be a man, but even if he be an angel come down from Heaven."**^B1^
+
+**St. John Chrysostom makes the practical application absolutely clear**: **"Do not have any communion with them (heretics)—do not eat with them, do not drink, do not bind friendships with them,"** and he **"loudly declares not only heretics, but also those who have communion with them, to be enemies of God."**^B2^
+
+**This teaching establishes that episcopal authority derives from faithfulness to apostolic teaching, not merely from ordination.** **St. John Chrysostom is confirming St. Theodore's Three-Tier Principle** - this isn't just one saint's interpretation, but the consistent Orthodox teaching across centuries.
 
 **St. Theodore the Studite** provides additional devastating teaching on why communion with heretics carries such severe spiritual consequences:
 

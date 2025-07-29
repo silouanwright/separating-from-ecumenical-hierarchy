@@ -88,9 +88,13 @@ This created **precisely the same crisis** Maria faces: **orthodox priests servi
 
 **Empress Theodora and Patriarch Methodius** officially restored icon veneration and **"disposed of and replaced a great number of iconoclast bishops."**³⁰
 
-**Canon 15 of the First-Second Council (861 AD)** provided the **ultimate Orthodox verdict**:
+**Canon 15 of the First-Second Council (861 AD)** provided the **ultimate Orthodox verdict**, establishing the paradigmatic precedent for all future Orthodox resistance to heretical hierarchy:
 
-> **"Those who separate from their bishop before a synodical investigation because he himself is preaching some misbelief and heresy publicly... shall be deemed worthy to enjoy the honor which befits them among Orthodox Christians. For they have defied, not Bishops, but pseudo-bishops and pseudo-teachers."**³¹
+> **"Those who separate from their bishop before a synodical investigation because he himself is preaching some misbelief and heresy publicly and bareheadedly in church... not only are not subject to any canonical penalty... but, on the contrary, they shall be deemed worthy to enjoy the honor which befits them among Orthodox Christians. For they have defied, not Bishops, but pseudo-bishops and pseudo-teachers."**³¹
+
+**This canon provides crucial canonical principles**: **First**, the heresy must be one already condemned by councils or Church Fathers. **Second**, the bishop must be teaching it "publicly and bareheadedly in church" - meaning openly and officially. **Third**, those who resist are not creating schism but "have been sedulous to rescue the Church from schisms and divisions." **Fourth**, separation is authorized "before a synodical investigation" - meaning individual Orthodox Christians need not wait for official hierarchical condemnation.
+
+**The Arian crisis provides the paradigmatic historical example**. As Cardinal Newman meticulously documented, during this period **"the Catholic people, in the length and breadth of Christendom, were the obstinate champions of Catholic truth, and the bishops were not."** When approximately 400 Western bishops signed Arian formulas at Ariminum in 359, prompting St. Jerome's lament that **"the whole world groaned and marvelled to find itself Arian,"** it was primarily the lay faithful who preserved orthodoxy through canonical resistance.³²
 
 **Every saint who resisted was canonized:**³²,³³,³⁴,³⁵ St. Theodore the Studite, St. Stephen the Younger, St. John of Damascus, St. Nicephorus, and countless others who **chose separation over compromise**.
 

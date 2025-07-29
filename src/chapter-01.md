@@ -68,6 +68,12 @@ There's something even more concrete than these prayers. On the church's altar t
 
 **Failure to commemorate = automatic schism under Orthodox canon law.** This proves commemoration isn't ceremonial but constitutes actual ecclesiastical communion.
 
+**The flip side of this canonical requirement reveals the Orthodox safeguard**: **Canon 15 of the First-Second Council (861 AD)** explicitly protects those who separate from heretical bishops:
+
+> **"Those who separate from their bishop before a synodical investigation because he himself is preaching some misbelief and heresy publicly and bareheadedly in church... not only are not subject to any canonical penalty... but, on the contrary, they shall be deemed worthy to enjoy the honor which befits them among Orthodox Christians. For they have defied, not Bishops, but pseudo-bishops and pseudo-teachers."**^A7a^
+
+**Canon 15 establishes the crucial Orthodox principle**: When bishops preach condemned heresies "publicly and bareheadedly in church," faithful Orthodox Christians have **canonical authorization** to cease commemorating them. **The heresy must be one already condemned by councils or Fathers**, and **the bishop must be teaching it openly and officially**. **Those who resist are not creating schism but "have been sedulous to rescue the Church from schisms and divisions."**
+
 **Dr. Lewis Patsavos**, Professor of Canon Law at Holy Cross Greek Orthodox School of Theology, confirms this canonical reality:
 
 **"The commemoration of a bishop by a priest in the liturgy is the liturgical expression of their canonical communion. It is at the same time the affirmation of the right granted to the priest by his bishop to exercise priestly authority."**¹³

@@ -103,6 +103,12 @@ In additional recorded testimony, Elder Ephraim described ecumenism as **"filled
 
 > **"They say that we Orthodox should unite with the Roman Catholics and then with the Protestants and with all the known and unknown heresies conceived by the Devil in the name of Christianity. After all Christians without exception unite, they should then unite with the Mohammedans, the Jews and in extension with the Buddhists, Brahmins, Shintoists and with all the religions of the universe in general. This pan-heretical alchemy is being inspired through the so-called World Council of Churches... The only god to demand a tribute of worship there will be the fallen Beelzebub who through his representative amongst men, the Antichrist, will try to substitute his own will for the faith and worship of the true God. For in Ecumenism there is no personal God; for consistent ecumenists the doctrine of the Trinitarian God is utterly rejectable."**²³¹
 
+**Metropolitan Augustine Kantiotis synthesized centuries of Orthodox teaching** on the limits of episcopal authority when bishops embrace heretical positions:
+
+> **"The bishop must obey the Gospel. This is why when the Bishop is ordained, he is ordained under the Gospel. As the Fathers say, this means that the people shall obey the Bishop on one condition – that the Bishop obey the Gospel. But when the Bishop does not obey the Gospel and does not do according to the Holy Canons, then the clergy and the people are not obliged to obey the Bishop."**^C1^
+
+**This teaching provides the theological foundation** for understanding why Orthodox faithful may resist bishops who embrace ecumenical heresy. **Episcopal authority derives from faithfulness to Orthodox doctrine, not merely from sacramental ordination.**
+
 **Fr. Daniel Sysoev (martyr)** declared:
 
 > **"What is ecumenism's mistake? The mistake lies in trying to create truth by means of selection. As a result, all the ecumenists have fallen headlong into paganism."**²³²
