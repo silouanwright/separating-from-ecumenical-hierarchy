@@ -1,0 +1,2 @@
+npm run build-book
+git add book-project/dist/complete-manuscript.md

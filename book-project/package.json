@@ -1,0 +1,17 @@
+{
+  "name": "orthodox-separation-book",
+  "version": "1.0.0",
+  "description": "Orthodox Separation from Compromised Hierarchy: From Iconoclasm to Modern Ecumenism",
+  "scripts": {
+    "build": "node scripts/build-manuscript.js",
+    "split": "node scripts/split-manuscript.js",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
+  },
+  "keywords": ["orthodox", "theology", "manuscript", "book"],
+  "author": "Silouan Wright",
+  "license": "UNLICENSED",
+  "private": true
+}

@@ -3,10 +3,23 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-book": "cd book-project && node scripts/build-manuscript.js",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silouanwright/separating-from-ecumenical-hierarchy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silouanwright/separating-from-ecumenical-hierarchy/issues"
+  },
+  "homepage": "https://github.com/silouanwright/separating-from-ecumenical-hierarchy#readme",
+  "description": "",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
 }
